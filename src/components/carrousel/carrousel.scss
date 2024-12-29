@@ -1,0 +1,38 @@
+.header {
+    background-color:black;
+    color:white;
+    display: flex;
+   
+    
+    
+}
+
+.logo {
+    width:10%;
+    filter: invert(1);
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.art {
+    margin: auto;
+}
+
+.nav {
+    display: flex;
+    gap:14px;
+    
+    font-size: 20px;
+    align-items: center;
+
+    
+    
+}
+
+.bar {
+    justify-content: end;
+    padding-right: 40px;
+   
+}
+

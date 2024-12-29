@@ -1,0 +1,147 @@
+.form {
+    flex-direction: column;
+    display: flex;
+    width: 20%;
+    gap: 10px;
+    margin-top: -35px;
+    max-height: 400px;
+    margin: 0;
+
+
+
+}
+
+.painter {
+
+    width: 30%;
+   
+    max-height: 330px;
+    border-radius: 20px;
+
+}
+
+
+.imgcmd {
+    display: flex;
+        gap: 100px;
+        align-items: center;
+        justify-content: center;
+       
+
+}
+
+.description {
+    font-size: 20px;
+
+}
+
+
+
+form {
+
+
+    margin: 20px auto;
+
+}
+h3 {
+    margin-bottom: 50px;
+}
+input,
+textarea {
+    border: 0;
+    outline: 0;
+    padding: 1em;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+    font-family: 'Merriweather', sans-serif;
+    resize: none;
+    border: 2px solid black
+    
+}
+
+#input-submit {
+    color: white;
+    background: #00CFBE;
+    cursor: pointer;
+}
+
+#input-submit:hover {
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+textarea {
+    height: 126px;
+}
+
+.half {
+    float: left;
+    width: 48%;
+    margin-bottom: 1em;
+}
+
+.right {
+    width: 50%;
+}
+
+
+
+@media (max-width: 480px) {
+    .half {
+        width: 100%;
+        float: none;
+        margin-bottom: 0;
+    }
+}
+
+.cf:before,
+.cf:after {
+    content: ' ';
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.portrait {
+    text-align: center;
+    margin-right: 20px;
+}
+
+.perso {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    width: 160px;
+    
+    margin: auto;
+    white-space: nowrap;
+    padding-bottom: 13px;
+    margin-top: 100px;
+    
+
+}
+
+.perso h3::before {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 75px;
+
+    /* Ajoutez !important pour forcer l'application du style (à utiliser avec précaution) */
+    background-color: #c50000 !important;
+}
+
+.perso h3:after {
+    background-color: #c50000;
+    content: '';
+    display: block;
+    position: absolute;
+    margin-left:320px;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 5px;
+}

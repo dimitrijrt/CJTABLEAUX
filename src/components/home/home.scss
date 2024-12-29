@@ -1,0 +1,49 @@
+.carousel {
+   
+   margin:auto;
+   
+   display:none;
+
+    
+    
+}
+
+
+
+.titre {
+    
+    
+    padding: 15px;
+    
+    font-size: 40px;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.7);
+    margin: auto;
+    padding: 18px;
+    color: white;
+    width: 70%;
+    border-radius: 16px;
+    
+    
+
+}
+.carousel .slide img {
+    width: 100%;
+    vertical-align: top;
+    border: 0;
+    border-radius: 12px;
+    
+}
+
+.manga {
+    height: 600px;
+    object-fit: cover;
+    object-fit: fill;
+  
+
+}
+
+
+ul.thumbs.animated {
+    display: none;
+}

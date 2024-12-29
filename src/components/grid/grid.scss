@@ -1,0 +1,87 @@
+.grid {
+    
+    width: 100%;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+   
+
+}
+
+
+
+.gridimg {
+    display: flex;
+    align-items: center;
+     
+}
+
+.imglist {
+    width: 20%;
+    height: 20%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 50px;
+    margin-top: 60px;
+    place-items: center;
+    
+   
+    
+   
+    
+  
+    
+
+
+    img {
+        width: 300px;
+        height: 350px;
+        
+        border-radius: 20px;
+       
+        
+
+    }
+}
+
+
+
+.twelve {
+    font-size: 26px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        width: 160px;
+        text-align: center;
+        margin: auto;
+        white-space: nowrap;
+        padding-bottom: 13px;
+        display: block;
+        
+}
+
+.twelve h3::before {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 75px;
+    
+    /* Ajoutez !important pour forcer l'application du style (à utiliser avec précaution) */
+    background-color: #c50000 !important;
+}
+
+.twelve h3:after {
+    background-color: #c50000;
+    content: '';
+    display: block;
+    position: absolute;
+    margin-left: 83px;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 5px;
+}
+
+.pastel {
+    font-size: 34px;
+}
