@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        // redirige vers la même URL mais relative à /CJTABLEAUX
+        var path = window.location.pathname;
+        var base = '/CJTABLEAUX';
+
+        if (!path.startsWith(base)) {
+            window.location.href = base + path;
+        } else {
+            window.location.href = base + path.replace(base, '');
+        }
+    </script>
+</head>
+
+<body></body>
+
+</html>

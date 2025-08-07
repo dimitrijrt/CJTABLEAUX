@@ -2,6 +2,8 @@ import  './carrousel.scss';
 import logo from '../../assets/pinceau.jpg';
 import manga from '../../assets/manga.jpg';
 import clogo from '../../assets/img/C.png'
+import { Link } from 'react-router-dom';
+
 
 export default function Header() {
 	return (
@@ -19,9 +21,9 @@ export default function Header() {
                 
             </div>
             <div className='nav'>
-            <a href="/portrait">
-                 <span href="/portrait" className='bar'>Portrait</span>
-                 </a>
+            <Link to="/portrait">
+                 <span className='bar'>Portrait</span>
+                 </Link>
                   <a href="#pastel">
                    <span className='bar'>Pastels</span>
                    </a>
