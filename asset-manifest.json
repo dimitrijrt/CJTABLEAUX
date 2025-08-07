@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CJTABLEAUX/static/css/main.249e9b42.css",
-    "main.js": "/CJTABLEAUX/static/js/main.a61d88a2.js",
-    "static/js/453.e7b35ad2.chunk.js": "/CJTABLEAUX/static/js/453.e7b35ad2.chunk.js",
+    "main.css": "/CJTABLEAUX/static/css/main.9dfee5df.css",
+    "main.js": "/CJTABLEAUX/static/js/main.e2547f33.js",
+    "static/js/453.96b5d370.chunk.js": "/CJTABLEAUX/static/js/453.96b5d370.chunk.js",
     "static/media/tete_lion.jpg": "/CJTABLEAUX/static/media/tete_lion.b5142bda4aa8762a941b.jpg",
     "static/media/harry.jpg": "/CJTABLEAUX/static/media/harry.d404eaca24a4eaccb1ed.jpg",
     "static/media/kyubi.jpg": "/CJTABLEAUX/static/media/kyubi.f06e168d5e7bf3fb5d8e.jpg",
@@ -14,20 +14,23 @@
     "static/media/elephant1.jpg": "/CJTABLEAUX/static/media/elephant1.df370b188c48bf2d181e.jpg",
     "static/media/itachi.jpg": "/CJTABLEAUX/static/media/itachi.8afea53bc98d664c9fa3.jpg",
     "static/media/2.jpg": "/CJTABLEAUX/static/media/2.1728cdb189dac2742190.jpg",
+    "static/media/guepard.webp": "/CJTABLEAUX/static/media/guepard.2ad1c3c92dd567bb32c1.webp",
+    "static/media/chimp.webp": "/CJTABLEAUX/static/media/chimp.e04127fcbd0d665df2bb.webp",
     "static/media/gecko.jpg": "/CJTABLEAUX/static/media/gecko.174b5937b96d23037da6.jpg",
     "static/media/hibou.jpg": "/CJTABLEAUX/static/media/hibou.8fec2b7e5c8c90e448ba.jpg",
-    "static/media/painter.jpg": "/CJTABLEAUX/static/media/painter.b745c00af06739e4fa5b.jpg",
+    "static/media/lahautb.webp": "/CJTABLEAUX/static/media/lahautb.cff55f84610dc0595aea.webp",
+    "static/media/panthb.webp": "/CJTABLEAUX/static/media/panthb.f72052dae28c51ac1724.webp",
     "static/media/manga.jpg": "/CJTABLEAUX/static/media/manga.5529b5a4113081bc8748.jpg",
     "static/media/paint.jpeg": "/CJTABLEAUX/static/media/paint.3bcbe98404c66118e7ed.jpeg",
     "static/media/pinceau.jpg": "/CJTABLEAUX/static/media/pinceau.446967700533d628e9ff.jpg",
     "static/media/logo.svg": "/CJTABLEAUX/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CJTABLEAUX/index.html",
-    "main.249e9b42.css.map": "/CJTABLEAUX/static/css/main.249e9b42.css.map",
-    "main.a61d88a2.js.map": "/CJTABLEAUX/static/js/main.a61d88a2.js.map",
-    "453.e7b35ad2.chunk.js.map": "/CJTABLEAUX/static/js/453.e7b35ad2.chunk.js.map"
+    "main.9dfee5df.css.map": "/CJTABLEAUX/static/css/main.9dfee5df.css.map",
+    "main.e2547f33.js.map": "/CJTABLEAUX/static/js/main.e2547f33.js.map",
+    "453.96b5d370.chunk.js.map": "/CJTABLEAUX/static/js/453.96b5d370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.249e9b42.css",
-    "static/js/main.a61d88a2.js"
+    "static/css/main.9dfee5df.css",
+    "static/js/main.e2547f33.js"
   ]
 }
