@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CJTABLEAUX/static/css/main.9dfee5df.css",
-    "main.js": "/CJTABLEAUX/static/js/main.3da58e17.js",
+    "main.js": "/CJTABLEAUX/static/js/main.53a30e6b.js",
     "static/js/453.96b5d370.chunk.js": "/CJTABLEAUX/static/js/453.96b5d370.chunk.js",
     "static/media/tete_lion.jpg": "/CJTABLEAUX/static/media/tete_lion.b5142bda4aa8762a941b.jpg",
     "static/media/harry.jpg": "/CJTABLEAUX/static/media/harry.d404eaca24a4eaccb1ed.jpg",
@@ -26,11 +26,11 @@
     "static/media/logo.svg": "/CJTABLEAUX/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CJTABLEAUX/index.html",
     "main.9dfee5df.css.map": "/CJTABLEAUX/static/css/main.9dfee5df.css.map",
-    "main.3da58e17.js.map": "/CJTABLEAUX/static/js/main.3da58e17.js.map",
+    "main.53a30e6b.js.map": "/CJTABLEAUX/static/js/main.53a30e6b.js.map",
     "453.96b5d370.chunk.js.map": "/CJTABLEAUX/static/js/453.96b5d370.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dfee5df.css",
-    "static/js/main.3da58e17.js"
+    "static/js/main.53a30e6b.js"
   ]
 }
