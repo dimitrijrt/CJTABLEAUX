@@ -1,6 +1,6 @@
 
 import manga from '../../assets/wall.webp'
-import imgmanga from '../../assets/2.jpg'
+import imgmanga from '../../assets/img/pastel/panthb.webp'
 import big from '../../assets/paint.jpeg'
 import './fond.scss'
  
@@ -9,15 +9,20 @@ import './fond.scss'
 
         return (
             <section className='fond'>
-                
                  <div className='fondimg'>
-                     <img src={big} alt='img' />
+                    <div className='test'>
                     
+                        <img src={big} alt='img' />
+                
+                
                     <img  src={manga} alt='img' />
-                    <img src={imgmanga} alt='img'/>
+                    <img className="nature" src={imgmanga} alt='img'/>
+                    </div>
                    
                  </div>
-                    
+                 <span className='ban'>
+            <h1 className='titre'>Oeuvres sur mesure : 100% fais à la main / Manga / Culture pop / Animaux / Portrait </h1>
+            </span>
                     
             </section>
         )

@@ -13,6 +13,16 @@
     display: flex;
     justify-content: flex-start;
     
+
+
+    
+}
+
+.clogo {
+    width: 60%;
+    filter: invert(1);
+    padding: 10px;
+
 }
 
 .art {
@@ -36,3 +46,10 @@
    
 }
 
+a {
+    text-decoration: none;
+    color: white;
+
+    &:hover {
+            transform: scale(1.05);     }
+}

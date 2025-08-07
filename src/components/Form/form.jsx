@@ -1,7 +1,7 @@
 
 
 import './form.scss'
-import painter from '../../assets/painter.jpg'
+import painter from '../../assets/lahautb.webp'
  
  
     function Form () {
@@ -12,7 +12,6 @@ import painter from '../../assets/painter.jpg'
                  <div className='perso'>
                     <h3 className='portrait'>PORTRAIT PERSONNALISÉ</h3>
                  </div>
-                 <h3>COMMANDEZ VOTRE TABLEAU</h3>
                  <p></p>
 
                 <div className='imgcmd'>

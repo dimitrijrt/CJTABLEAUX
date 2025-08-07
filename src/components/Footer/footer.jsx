@@ -1,16 +1,19 @@
 import logo from '../../assets/pinceau.jpg';
 import style from'./footer.scss';
+import clogo from '../../assets/img/C.png'
 
 export default function Footer() {
     return (
 
-    <section className="footer">
+    <section className="footer" id="contact">
 
     
     <footer className="foot-container" >
-         <img className='logo' src={logo} alt="logo" />
+         <img className='logofoot' src={logo} alt="logo" />
+      
          <div className='button'>
-            <p>addressemailmailcontact ou telephone</p>
+         
+            <p>chzz@laposte.net</p>
          </div>
          <p className="footext" >© 2024 ART. All rights reserved</p> </footer>
          </section>

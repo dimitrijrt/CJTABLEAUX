@@ -1,0 +1,72 @@
+[
+  {
+    "titre": "Eléphant",
+    "description": "Un jeune hobbit nommé Frodon Baggins entreprend un voyage dangereux pour détruire un anneau maléfique qui menace de plonger la Terre du Milieu dans les ténèbres.",
+    "taille": "116 x 89 cm",
+    "img": "elephantp.jpg",
+    "id":"0"
+   
+  },
+
+  {
+
+    "titre": "Chimpanzé",
+    "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+    "taille": "40 x 30 cm",
+    "img": "chimp.webp",
+     "id":"12"
+   
+  },
+  {
+    "titre": "Kyubi",
+    "description": "Un roman dystopique écrit par George Orwell, qui décrit une société totalitaire où le gouvernement surveille et contrôle tous les aspects de la vie des citoyens.",
+    "taille": "70 x 50 cm",
+     "img": "kyubi.jpg",
+      "id":"2"
+  },
+  {
+    "titre": "Itachi",
+    "description": "L'histoire d'un petit prince venu d'une autre planète qui apprend des leçons importantes sur l'amitié, l'amour et la vie en rencontrant différents personnages.",
+    "taille": "65 x 50 cm",
+     "img": "itachi.jpg",
+      "id":"3"
+    
+  },
+  {
+
+    "titre": "Harry Potter",
+    "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+    "taille": "208 65 x 50 cm",
+    "img": "harry.jpg",
+     "id":"4"
+   
+  },
+ 
+  {
+
+    "titre": "Lion & Lionne",
+    "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+    "taille": "208 pages",
+    "img": "lion_lionne.jpg",
+     "id":"6"
+   
+  },
+  
+  {
+
+    "titre": "Guepard",
+    "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+    "taille": "55 x 46 cm",
+    "img": "guepard.webp",
+     "id":"13"
+   
+  },
+  {
+    "titre": "Léopard",
+    "description": "Le premier livre de la saga Harry Potter, où un jeune orphelin découvre qu'il est un sorcier et commence sa scolarité à Poudlard.",
+    "taille": "100 x 73 cm",
+     "img": "leopard.jpg",
+     "id":"1"
+    
+  }
+]

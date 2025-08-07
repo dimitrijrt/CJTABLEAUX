@@ -1,5 +1,6 @@
 import React from 'react';
 import style from './grid.scss'
+import datas from '../../data/data.json'
 
 const ImagesList = () => {
   // Utilisation de Webpack pour charger toutes les images du dossier 'assets/images'
@@ -20,17 +21,6 @@ const ImagesList = () => {
     return <img key={image} src={src} alt="Pastel" />;
   });
   
-
-
-
-
-
-
-  
-
-
- 
-
 
 
   return (

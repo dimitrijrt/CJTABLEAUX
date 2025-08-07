@@ -1,0 +1,57 @@
+[
+    {
+      "id":"13",
+      "titre": "Eléphant",
+      "description": "Un jeune hobbit nommé Frodon Baggins entreprend un voyage dangereux pour détruire un anneau maléfique qui menace de plonger la Terre du Milieu dans les ténèbres.",
+      "taille": "34 x 24 cm",
+      "img": "elephant1.jpg"
+     
+    },
+    {
+      "titre": "Gecko",
+      "description": "Le premier livre de la saga Harry Potter, où un jeune orphelin découvre qu'il est un sorcier et commence sa scolarité à Poudlard.",
+      "taille": "65 x 50 cm",
+       "img": "gecko.jpg",
+       "id":"7"
+      
+    },
+    {
+
+        "titre": "Lion",
+        "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+        "taille": "42 x 30 cm",
+        "img": "tete_lion.jpg",
+         "id":"5"
+       
+      },
+    {
+      "titre": "Hibou",
+      "description": "Un roman dystopique écrit par George Orwell, qui décrit une société totalitaire où le gouvernement surveille et contrôle tous les aspects de la vie des citoyens.",
+      "taille": "50 x 50 cm",
+       "img": "hibou.jpg",
+        "id":"8"
+    },
+   
+    {
+  
+      "titre": "Bélier",
+      "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+      "taille": "34 x 24 cm",
+      "img": "mouflon.jpg",
+       "id":"10"
+     
+    },
+    {
+  
+        "titre": "Panthère",
+        "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+        "taille": "34 x 24 cm",
+        "img": "panthb.webp",
+         "id":"11"
+       
+      }
+    
+
+ 
+  ]
+  

@@ -2,10 +2,9 @@
 
 .footer {
     background-color: black;
-    padding-top: 80px;
     margin-top: 40px;
-    height: 100%;
-    padding-bottom: 80px;
+    padding-bottom: 10px;
+  
    
 }
 
@@ -17,23 +16,27 @@
 .button {
     display: flex;
     flex-direction: column;
-    color:black;
-    background-color: white;
-    padding: 5px;
-    border-radius: 18px;
-    width: 20%;
+    color:white;
+  
+  
+    border-radius: 30px;
+    width: 15%;
     margin: auto;
     font-size: 16px;
     background: rgb(51, 56, 59);
         background: linear-gradient(60deg,
                 rgba(58, 62, 82, 1) 0%,
                 rgba(96, 103, 136, 1) 100%);
-    align-items: center;
+        align-items: center;
+        
                 
     
     
 }
 
-.logo {
-
+.logofoot {
+    width:5%;
+    padding-top: 20px;
+    filter: invert(1);
 }
+

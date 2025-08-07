@@ -12,8 +12,7 @@ import './home.scss'
 
         return (
             <section className='home'>
-            <h1 className='titre'>Tableaux sur mesure : Manga / Culture pop / Animaux.</h1>
-            <h2></h2>
+
            
             <Carousel autoPlay infiniteLoop  className='carousel'>
               
