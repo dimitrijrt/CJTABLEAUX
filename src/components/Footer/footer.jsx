@@ -13,7 +13,7 @@ export default function Footer() {
       
          <div className='button'>
          
-            <p>chzz@laposte.net</p>
+            <a  href="mailto:chzze@gmail.com" className='mail'>chzz@laposte.net</a>
          </div>
          <p className="footext" >© 2024 ART. All rights reserved</p> </footer>
          </section>

@@ -12,6 +12,7 @@
     filter: invert(1);
     display: flex;
     justify-content: flex-start;
+    padding-left: -50px;
     
 
 
@@ -22,8 +23,11 @@
     width: 60%;
     filter: invert(1);
     padding: 10px;
+    margin-left: -80px;
+    
 
 }
+
 
 .art {
     margin: auto;
@@ -43,6 +47,8 @@
 .bar {
     justify-content: end;
     padding-right: 40px;
+    cursor: pointer;
+    font-weight: 700;
    
 }
 

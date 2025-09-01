@@ -20,18 +20,24 @@
   
   
     border-radius: 30px;
-    width: 15%;
+    width: 25%;
     margin: auto;
     font-size: 16px;
-    background: rgb(51, 56, 59);
-        background: linear-gradient(60deg,
-                rgba(58, 62, 82, 1) 0%,
-                rgba(96, 103, 136, 1) 100%);
+    background:white;
+    opacity:80% ;
         align-items: center;
+        cursor: pointer;
+        font-size: 25px;
+        padding: 10px;
         
                 
     
     
+}
+
+.mail {
+    color: black;
+    font-weight: 600;
 }
 
 .logofoot {

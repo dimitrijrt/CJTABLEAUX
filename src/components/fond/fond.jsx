@@ -17,12 +17,15 @@ import './fond.scss'
                 
                     <img  src={manga} alt='img' />
                     <img className="nature" src={imgmanga} alt='img'/>
+                   
                     </div>
+                   
                    
                  </div>
                  <span className='ban'>
-            <h1 className='titre'>Oeuvres sur mesure : 100% fais à la main / Manga / Culture pop / Animaux / Portrait </h1>
+            <h1 className='titre'>Oeuvres sur mesure : 100% faites à la main :  Manga / Culture pop / Animaux / Portrait .</h1>
             </span>
+                
                     
             </section>
         )

@@ -12,18 +12,21 @@ import Main from './pages/main';
 import Tabpage from './pages/Tabpage/tappage'
 import Pastelpage from './pages/Tabpage/pastelpage'
 import Portrait from './pages/portrait/portrait'
+import Pastel from './pages/Pastel/pastel'
+
 
 
 
 function App() {
   return (
-    <HashRouter basename="/CJTABLEAUX">
+    <HashRouter >
       <Routes>
         <Route path="/" element={<Card />} />
         <Route path="/card" element={<Main />} />
         <Route path="/oeuvre/:id" element={<Tabpage />} />
         <Route path="/pastel/:id" element={<Pastelpage />} />
         <Route path="/portrait" element={<Portrait />} />
+        <Route path="/pastel" element={<Pastel />} />
       </Routes>
     </HashRouter>
   );

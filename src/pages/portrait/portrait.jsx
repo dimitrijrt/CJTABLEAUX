@@ -17,7 +17,7 @@ export default function Portrait() {
 	return (
 		<div className='home'>
 			 <Carroussel/>
-    
+			
             <Form/>
             <Footer/>
 		</div>

@@ -31,7 +31,6 @@
        "img": "hibou.jpg",
         "id":"8"
     },
-   
     {
   
       "titre": "Bélier",
@@ -43,13 +42,16 @@
     },
     {
   
-        "titre": "Panthère",
-        "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
-        "taille": "34 x 24 cm",
-        "img": "panthb.webp",
-         "id":"11"
-       
-      }
+      "titre": "Panthère",
+      "description": "Un jeune berger nommé Santiago part à la recherche d'un trésor caché, et à travers ce voyage, il découvre des vérités profondes sur la vie et ses rêves.",
+      "taille": "34 x 24 cm",
+      "img": "panthb.webp",
+       "id":"11"
+     
+    }
+   
+   
+   
     
 
  

@@ -11,9 +11,14 @@ import painter from '../../assets/lahautb.webp'
                 
                  <div className='perso'>
                     <h3 className='portrait'>PORTRAIT PERSONNALISÉ</h3>
+                   
+                   
                  </div>
-                 <p></p>
-
+                 <span className='ban'>
+            <h1 className='titrepas'>Obtenez un Portrait 100% personnalisé , de votre personnage préféré à votre animal préféré, nous nous adaptons à votre demande . </h1>
+            </span>
+                 
+                
                 <div className='imgcmd'>
 
                
@@ -27,7 +32,7 @@ import painter from '../../assets/lahautb.webp'
                         <input type="submit" value="Send" id='input-submit' />
                     </form>
                  </div>
-                 <p className='description'>Bénéficiez de tableaux 100% fais à la main par un artiste peintre.Obtenez un Tableau personnalisé , De votre personnage préféré à votre animal préféré, demandez nous ce que vous souhaitez , nous le peindrons. </p>
+               
             </section>
            
         )

@@ -14,6 +14,7 @@ import Form from '../components/Form/form';
 
 
 
+
 export default function Main() {
 	return (
 		<div className='home'>

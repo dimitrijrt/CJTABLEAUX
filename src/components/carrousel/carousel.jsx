@@ -3,17 +3,20 @@ import logo from '../../assets/pinceau.jpg';
 import manga from '../../assets/manga.jpg';
 import clogo from '../../assets/img/C.png'
 import { Link } from 'react-router-dom';
+import { Link as ScrollLink } from 'react-scroll';
+
 
 
 export default function Header() {
 	return (
 		<header className="header">
             
+            
             <div className='img'>
                 <img className='logo' src={logo} alt="logo" />
             </div>
-            <div>
-                <a href="/">
+            <div className='mid'>
+                <a href="/CJTABLEAUX">
             <img className='clogo' src={clogo} alt="logo" />
             </a>
             </div>
@@ -24,12 +27,13 @@ export default function Header() {
             <Link to="/portrait">
                  <span className='bar'>Portrait</span>
                  </Link>
-                  <a href="#pastel">
+                
+                <Link to="/pastel" smooth={true} duration={500}>
                    <span className='bar'>Pastels</span>
-                   </a>
-                   <a href="#contact">
+                   </Link>
+                   <ScrollLink to="contact" smooth={true} duration={500}>
                   <span className='bar'>Contact</span>
-                  </a>
+                  </ScrollLink>
 
             </div>
 
