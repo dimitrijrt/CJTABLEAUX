@@ -31,9 +31,9 @@ export default function Header() {
                 <Link to="/pastel" smooth={true} duration={500}>
                    <span className='bar'>Pastels</span>
                    </Link>
-                   <ScrollLink to="contact" smooth={true} duration={500}>
+                   <Link to="/contact" smooth={true} duration={500}>
                   <span className='bar'>Contact</span>
-                  </ScrollLink>
+                  </Link>
 
             </div>
 

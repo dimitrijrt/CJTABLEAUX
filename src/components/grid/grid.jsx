@@ -28,7 +28,7 @@ const ImagesList = () => {
      
     <div className='grid'>
       <div className='twelve'>
-        <h3 >TABLEAUX</h3>
+        <h3 className='titletab' >TABLEAUX</h3>
       </div>
       <div className='gridimg'>
         <div className='imglist'>{imageList}</div>

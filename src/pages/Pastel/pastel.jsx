@@ -16,18 +16,19 @@ export default function   Pastel() {
          <main>
             <Carroussel/>
            
-            <Home/>
+    
           
             
-           
-             <div  className='grid' id="pastel">
-
-                <div className='twelve'>
+            <div className='twelve'>
                 <h3 >PASTELS</h3>
                 </div>
                 <span className='ban'>
-            <h1 className='titrepas'>Pastels sur mesure : 100% faites à la main :  Manga / Culture pop / Animaux / Portrait .</h1>
+                <h1 className='titrepas'>Pastels sur mesure : 100% faites à la main.</h1>
             </span>
+             <div  className='grid' id="pastel">
+
+               
+              
                 <div className='grille'>
 
                 {pastels.map(data => {

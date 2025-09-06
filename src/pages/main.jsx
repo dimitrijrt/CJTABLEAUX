@@ -20,7 +20,6 @@ export default function Main() {
 		<div className='home'>
 			 <Carroussel/>
             <Fond/>
-            <Home/>
             <ImagesList/>
                 <Form/>
             <Footer/>

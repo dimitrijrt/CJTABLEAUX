@@ -5,15 +5,31 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        background-color: black;
+        color: white;
+      
+           
+   
    
 
 }
 
+.grille {
+
+        border-radius: 12px;
+      
+}
+
+
+.titletab {
+    background-color: white;
+}
 
 
 .gridimg {
     display: flex;
     align-items: center;
+   
      
 }
 

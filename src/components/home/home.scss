@@ -1,12 +1,26 @@
 .carousel {
    
    margin:auto;
-   
- display: none;
+   width: 50%;
+  
+
+ 
 
     
     
 }
+
+.homecar {
+   
+    margin: auto;
+    background-color: black;
+    
+   
+    
+   
+   
+}
+
 
 
 
@@ -16,18 +30,55 @@
     vertical-align: top;
     border: 0;
     border-radius: 12px;
+    opacity: 80%;
+    max-height: 400px;
+
+  
+   
+   
+   
     
 }
 
 .manga {
-    height: 600px;
+  
     object-fit: cover;
-    object-fit: fill;
+
+    
+   
   
 
 }
 
 
 ul.thumbs.animated {
+    display: none;
+}
+
+.carousel .slide .legend {
+
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    margin-left: -45%;
+    width: 90%;
+    border-radius: 10px;
+    background: none;
+    color: #fff;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    opacity: 100%;
+    font-weight: 700;
+    letter-spacing: 2px;
+    
+  
+    
+  
+  
+}
+
+
+.carousel .control-dots .dot {
     display: none;
 }

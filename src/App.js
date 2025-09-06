@@ -12,8 +12,8 @@ import Main from './pages/main';
 import Tabpage from './pages/Tabpage/tappage'
 import Pastelpage from './pages/Tabpage/pastelpage'
 import Portrait from './pages/portrait/portrait'
+import Contact from './pages/Contact/contact'
 import Pastel from './pages/Pastel/pastel'
-
 
 
 
@@ -27,6 +27,7 @@ function App() {
         <Route path="/pastel/:id" element={<Pastelpage />} />
         <Route path="/portrait" element={<Portrait />} />
         <Route path="/pastel" element={<Pastel />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </HashRouter>
   );

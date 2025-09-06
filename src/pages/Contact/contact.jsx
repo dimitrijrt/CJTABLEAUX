@@ -1,21 +1,27 @@
+import Footer from '../../components/Footer/footer'
+import Header from '../../components/carrousel/carousel'
 
 
-import './form.scss'
-import painter from '../../assets/lahautb.webp'
+import painter from '../../assets/painter.jpg'
  
  
-    function Form () {
+    function Contact () {
 
         return (
 
-          
+        
             <section className='commande'>
                  
-                 
+                 <Header/>
+                 <div className='twelve'>
+                <h3 >Demande</h3>
+                </div>
                  <span className='ban'>
               
-                    <h1 className='titrepas'>Obtenez un Portrait 100% personnalisé , de votre personnage préféré à votre animal préféré, nous nous adaptons à votre demande . </h1>
+                    <h1 className='titrepas'>Demande 100% personnalisée ,Envoyez nous une image ou une description et obtenez votre oeuvre . </h1>
                 </span>
+                   
+           
                  
                 
                 <div className='imgcmd'>
@@ -31,7 +37,7 @@ import painter from '../../assets/lahautb.webp'
                         <input type="submit" value="Send" id='input-submit' />
                     </form>
                  </div>
-               
+                <Footer/>
             </section>
            
         )
@@ -44,7 +50,7 @@ import painter from '../../assets/lahautb.webp'
             
     
 
- export default Form
+ export default Contact
 
 
 

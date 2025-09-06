@@ -16,12 +16,12 @@ export default function Gallery() {
          <main>
             <Carroussel/>
             <Fond/>
-            <Home/>
-             <div  className='grid'>
-
-                <div className='twelve'>
+            <div className='twelve'>
                 <h3 >TABLEAUX</h3>
                 </div>
+             <div  className='grid'>
+
+              
                 <div className='grille'>
           
             {datas.map(data => {
@@ -35,7 +35,7 @@ export default function Gallery() {
                          <Link to={`/oeuvre/${data.id}`} className="gallery_card">
                         <   img  className="imglist" src={image} alt={data.titre} />
                         </Link>
-                        <h3>{data.titre}</h3>
+                        <h2>{data.titre}</h2>
                         <h3>{data.taille}</h3>
                   
                     </div>
